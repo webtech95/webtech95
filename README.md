@@ -4,8 +4,7 @@
 **webtech95/webtech95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-# 💫 About Me:
-🔭 I’m currently working on Freelancing and building modern React.js e-commerce websites<br><br>🤝 I’m looking to collaborate on Web Development and UI/UX Projects<br><br>🆘 I’m looking for help with Backend Development and API Integration<br><br>🌱 I’m currently learning Full Stack Development and Advanced React.js<br><br>💬 Ask me about React.js, Frontend Development, Responsive Design, and E-commerce Websites<br><br>⚡ Fun fact: I love creating modern websites and learning new tech every day 🚀<br>
+
 
 
 ## 🌐 Socials:
@@ -20,5 +19,8 @@ Here are some ideas to get you started:
 
 ---
 [![](https://komarev.com/ghpvc/?username=webtech95&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💫 About Me:
 
+🔭 I’m currently working on Freelancing and building modern React.js e-commerce websites<br><br>🤝 I’m looking to collaborate on Web Development and UI/UX Projects<br><br>🆘 I’m looking for help with Backend Development and API Integration<br><br>🌱 I’m currently learning Full Stack Development and Advanced React.js<br><br>💬 Ask me about React.js, Frontend Development, Responsive Design, and E-commerce Websites<br><br>⚡ Fun fact: I love creating modern websites and learning new tech every day 🚀<br>
 
